@@ -22,14 +22,4 @@ This repository contains implementations of a variety of numerical recipes, demo
 
 ## About the Author
 
-My strong background in mathematics spans across linear algebra, mathematical analysis, statistics, discrete math, graph theory, and more. These implementations serve as a snapshot of my extensive knowledge in numerical methods and mathematical disciplines. They are a testament to my dedication to understanding the underlying principles and applications of numerical analysis in solving complex mathematical problems.
-
-I possess a strong foundation in numerous fields of mathematics, including but not limited to:
-
-- Statistics
-- Discrete Mathematics
-- Mathematical Analysis
-- Linear Algebra
-- Graph Theory
-
-These implementations are just a snapshot of my capabilities. Beyond these practical examples, my expertise extends into a deeper understanding of numerical methods and their underlying mathematical principles.
+My strong background in mathematics spans across linear algebra, mathematical analysis, statistics, discrete math, graph theory, and more. These implementations serve as a snapshot of my extensive knowledge in numerical methods, combining mathematical expertise with code.
