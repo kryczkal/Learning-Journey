@@ -4,13 +4,13 @@ This repository contains an advanced C++ implementation of the classic Hanoi Tow
 
 ## File Descriptions
 
-- `hanoi.h`: Defines the `hanoi` class, which encapsulates the logic for solving the Hanoi Tower problem. It includes methods for both recursive (`hanoiRecu`) and non-recursive (`hanoiNonRecu`) solutions, as well as a custom solution (`hanoiMyNonRecu`). The class demonstrates a deep understanding of template metaprogramming, using template specialization to optionally display each move.
+- `hanoi.h`: Defines the `hanoi` class, which encapsulates the logic for solving the Hanoi Tower problem. It includes methods for both recursive (`hanoiRecu`) and non-recursive (`hanoiNonRecu`) solutions, as well as a custom solution (`hanoiMyNonRecu`).
 
-- `main.cpp`: The entry point of the program that creates an instance of the `hanoi` class and initiates the game. It's a practical example of how to implement the class in a working application.
+- `main.cpp`: The entry point of the program that creates an instance of the `hanoi` class and initiates the game.
 
-- `stack.h`: Implements a generic `stack` data structure used by the `hanoi` class to represent the towers. It shows a solid grasp of generic programming in C++.
+- `stack.h`: Implements a generic `stack` data structure used by the `hanoi` class to represent the towers.
 
-- `timer.h`: Provides a `timer` class that can be used to benchmark the different solutions. This file showcases the use of RAII (Resource Acquisition Is Initialization) principles for resource management in C++.
+- `timer.h`: Provides a `timer` class that can be used to benchmark the different solutions.
 
 ## Advanced Concepts
 
