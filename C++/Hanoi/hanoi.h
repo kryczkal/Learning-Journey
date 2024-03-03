@@ -53,7 +53,6 @@ public:
 
     template<bool showEveryMove = false>
     void playGame(bool isRecursive = true)
-        // rozwiazania z zajec
     {
         if constexpr (showEveryMove)
             displayTowers();
