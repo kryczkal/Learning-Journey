@@ -21,7 +21,7 @@ bool  dictionary::words_from_file(string file_name)
 	in.open(file_name);
 	if (!in.good())
 	{
-		cout << "blad odczytu pliku\n";
+		cout << "File reading error\n";
 		return false;
 	}
 	while (!in.eof())
@@ -58,17 +58,17 @@ void dictionary::test() const
 	int los = rand() % S.size();
 	auto it = S.begin();
 	advance(it, los);
-	cout << "Wylosowano: " << los + 1 << ". Czesc polska: " << it->pol << '\n';
-	cout << "Podaj word po eng: ";
+	cout << "Chosen: " << los + 1 << ". Polish Part: " << it->pol << '\n';
+	cout << "Write the word in eng: ";
 	string eng;
 	cin >> eng;
 	if (find_word(word(eng, it->pol)))
 	{
-		cout << "Odpowiedz poprawna!\n";
+		cout << "Good Answer!\n";
 	}
 	else
 	{
-		cout << "Bledna odpowiedz\n";
+		cout << "Wrong Answer\n";
 	}
 
 }
