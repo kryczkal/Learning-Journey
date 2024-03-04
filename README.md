@@ -14,7 +14,7 @@ Welcome to my central repository of learning and development in programming. Thi
 - [ ] **Data Structures in Cpp** <- partially implemented, but not yet public.
 - [ ] **Graph Algorithms in C#** <- this is a topic I am currently exploring and a new repository should soon be visible.
 - [ ] **WinApi in Cpp** <- another topic/technology I am currently learning and will soon be visible in this repository.
-- [ ] **Object Oriented Programming** I am also currently learning how to design well-thought-out easily expandible (open for expansion/closed for modification) applications, and use common programming paradigms (Adapter/AbstractFactory/Singleton etc), and am expanding a project in C# that will soon also be avaliable here.
+- [ ] **Object Oriented Programming** <- I am also currently learning how to design well-thought-out easily expandible (open for expansion/closed for modification) applications, and use common programming paradigms (Adapter/AbstractFactory/Singleton etc), and am expanding a project in C# that will soon also be avaliable here.
 
 Each subdirectory is a window into the skills I've honed, with projects that range from simple to complex, reflecting my learning process, current capabilities and things that I will soon know as I am currently learning them.
 
