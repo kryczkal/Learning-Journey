@@ -7,7 +7,7 @@ Welcome to my central repository of learning and development in programming. Thi
 - [x] **[C-Posix-Operating-Systems](./C-Posix-Operating-Systems)**: Delves into low-level system programming with C and POSIX APIs.
 - [x] **[C#](./CSharp/CSharp-Simple-Libraries)**: Contains foundational C# projects showcasing my grasp of .NET.
 - [x] **[C++/Cpp-Simple-Examples](./C++/Cpp-Simple-Examples/)**: Features early to mid-journey C++ programs, including STL usage.
-- [x] **[C++/Hanoi Tower](C++/Hanoi-Tower)**: A sophisticated solution to the Hanoi Tower problem using advanced C++ concepts.
+- [x] **[C++/Hanoi Tower](./C++/Hanoi-Tower)**: A sophisticated solution to the Hanoi Tower problem using advanced C++ concepts.
 - [x] **[Matlab-Numerical-Recipes](./Matlab-Numerical-Recipes)**: Demonstrates numerical methods in Matlab.
 - [x] **[Python/TalkTales](./Python/TalkTales)**: Speech diarization tool made using Gaussian Mixutre Models and open source solutions.
 - [x] **[Python/SnakeAI](./Python/SnakeAI)**: A game of snake played by a DQN network.  
